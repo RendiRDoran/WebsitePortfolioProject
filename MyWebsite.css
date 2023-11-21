@@ -18,6 +18,13 @@
         padding: 20px;
         background-color: #f4f4f4;
       }
+
+      .btn {
+        text-decoration: none;
+        padding: 0.5rem;
+        text-decoration: underline;
+        color: red;
+      }
       
       #header {
         text-align: center;
